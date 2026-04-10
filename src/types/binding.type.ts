@@ -6,4 +6,9 @@ export type Bindings = {
   ADMIN_EMAIL: string;
   ADMIN_PASSWORD: string;
   JWT_SECRET: string;
+  BREVO_API_KEY: string;
+  BREVO_SENDER_EMAIL: string;
+  BREVO_SENDER_NAME: string;
+  RECEIVER_EMAIL: string;
+  BREVO_API_URL: string;
 };
