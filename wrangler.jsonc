@@ -8,6 +8,10 @@
   ],
   "vars": {
     "GITHUB_USERNAME": "rendy-ptr",
+    "BREVO_SENDER_EMAIL": "bwattestink@gmail.com",
+    "BREVO_SENDER_NAME": "Dari Portfolio Website",
+    "RECEIVER_EMAIL": "rendyworksspace@gmail.com",
+    "BREVO_API_URL": "https://api.brevo.com/v3/smtp/email"
   },
   "routes": [
     {
