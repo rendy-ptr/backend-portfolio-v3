@@ -9,7 +9,7 @@ const app = new Hono<{ Bindings: Bindings }>();
 app.use(
   "/*",
   cors({
-    origin: ["http://localhost:5173", "https://rendydev.net"],
+    origin: ["http://localhost:5173", "https://rendydev.net", "https://portfolio.rendydev.net"],
   }),
 );
 
