@@ -11,4 +11,5 @@ export type Bindings = {
   BREVO_SENDER_NAME: string;
   RECEIVER_EMAIL: string;
   BREVO_API_URL: string;
+  LEETCODE_USERNAME: string;
 };
