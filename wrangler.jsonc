@@ -11,7 +11,8 @@
     "BREVO_SENDER_EMAIL": "bwattestink@gmail.com",
     "BREVO_SENDER_NAME": "Dari Portfolio Website",
     "RECEIVER_EMAIL": "rendyworksspace@gmail.com",
-    "BREVO_API_URL": "https://api.brevo.com/v3/smtp/email"
+    "BREVO_API_URL": "https://api.brevo.com/v3/smtp/email",
+    "LEETCODE_USERNAME": "rendy-ptr"
   },
   "routes": [
     {
